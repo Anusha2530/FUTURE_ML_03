@@ -1,0 +1,53 @@
+Ranking candidates for: AI Engineer
+=================================================================
+  RANKING  —  AI ENGINEER
+=================================================================
+  #01  Candidate_063   85.7/100  █████████████████░░░
+       Matched : ['communication', 'java', 'machine learning', 'problem solving', 'python']
+       Missing : ['pytorch', 'scikit-learn', 'tensorflow']
+       Exp     : 0 yr(s)
+
+  #02  Candidate_100   85.4/100  █████████████████░░░
+       Matched : ['communication', 'machine learning', 'problem solving', 'python']
+       Missing : ['java', 'pytorch', 'scikit-learn', 'tensorflow']
+       Exp     : 3 yr(s)
+
+  #03  Candidate_029   85.0/100  ████████████████░░░░
+       Matched : ['communication', 'java', 'machine learning', 'problem solving', 'python']
+       Missing : ['pytorch', 'scikit-learn', 'tensorflow']
+       Exp     : 2 yr(s)
+
+  #04  Candidate_329   84.9/100  ████████████████░░░░
+       Matched : ['communication', 'java', 'machine learning', 'problem solving', 'python']
+       Missing : ['pytorch', 'scikit-learn', 'tensorflow']
+       Exp     : 12 yr(s)
+
+  #05  Candidate_039   84.1/100  ████████████████░░░░
+       Matched : ['communication', 'java', 'machine learning', 'problem solving']
+       Missing : ['python', 'pytorch', 'scikit-learn', 'tensorflow']
+       Exp     : 20 yr(s)
+
+  #06  Candidate_044   83.6/100  ████████████████░░░░
+       Matched : ['communication', 'java', 'machine learning', 'problem solving', 'python']
+       Missing : ['pytorch', 'scikit-learn', 'tensorflow']
+       Exp     : 0 yr(s)
+
+  #07  Candidate_273   83.2/100  ████████████████░░░░
+       Matched : ['communication', 'java', 'machine learning', 'problem solving', 'python']
+       Missing : ['pytorch', 'scikit-learn', 'tensorflow']
+       Exp     : 0 yr(s)
+
+  #08  Candidate_317   83.1/100  ████████████████░░░░
+       Matched : ['communication', 'machine learning', 'problem solving', 'python', 'pytorch']
+       Missing : ['java', 'scikit-learn', 'tensorflow']
+       Exp     : 10 yr(s)
+
+  #09  Candidate_332   83.0/100  ████████████████░░░░
+       Matched : ['communication', 'machine learning', 'problem solving', 'python', 'scikit-learn']
+       Missing : ['java', 'pytorch', 'tensorflow']
+       Exp     : 0 yr(s)
+
+  #10  Candidate_093   82.8/100  ████████████████░░░░
+       Matched : ['communication', 'machine learning', 'problem solving', 'python', 'pytorch', 'scikit-learn']
+       Missing : ['java', 'tensorflow']
+       Exp     : 0 yr(s)
