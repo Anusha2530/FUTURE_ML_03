@@ -105,7 +105,7 @@ Build an ML system that can:
 ## 📊 Output
 
 ### Ranking Report
-![Feature Importance](Featured.jpg)
+![Feature Importance](Featured importance.jpg)
 
 ### Skill Gap Heatmap
 ![Heatmap](Heattmap.jpg)
